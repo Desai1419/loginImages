@@ -5,6 +5,6 @@
 <body bgcolor="black">
   <main>
   <img src="http://studioghiblimovies.com/images/laputaww7.jpg" width="800" height="600">
-  <a href="index.php">Back to home</a> <a href="photo3.php">Next Photo</a>
+  <a href="images1.php">Back to home</a> <a href="photo3.php">Next Photo</a>
     </body>    
 </html>
