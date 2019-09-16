@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <style>
   body {background-color: powderblue;}
 h1   {color: blue;}
 h2    {color: red;}
+  </style>
   </head>
 <body>
   <h1 align='Center'>Rivas Photo Gallery</h1>
